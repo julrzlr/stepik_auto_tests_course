@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-ДЗ по курсу
+ДЗ по курсутра та та
