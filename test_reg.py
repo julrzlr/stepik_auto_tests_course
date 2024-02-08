@@ -1,8 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import unittest
-import datetime
-
 
 
 class TestReg(unittest.TestCase):
@@ -36,8 +34,6 @@ class TestReg(unittest.TestCase):
     def tearDown(self):
         self.browser.quit()
 
-# if __name__ == "__main__":
-#     unittest.main()
 
 
 
